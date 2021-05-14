@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Practice Software.
+ *
+ * @category  Practice
+ * @package   Practice_MessageQueue
+ * @author    Practice
+ * @copyright Copyright (c) Lsi Software Private Limited
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Practice_CustomFields" setup_version="1.0.0">
+    </module>
+</config>
