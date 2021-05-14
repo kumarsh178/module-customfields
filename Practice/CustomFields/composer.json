@@ -1,0 +1,23 @@
+{
+  "name": "kumarsh178/module-customfields",
+  "description": "Magento 2 Custom fields",
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Shailendra",
+      "email": "kumarsh178@gmail.com",
+      "homepage": "https://www.test.com",
+      "role": "Technical Support"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Practice\\CustomFields\\": ""
+    }
+  }
+}
