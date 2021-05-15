@@ -3,7 +3,15 @@
   "description": "Magento 2 Custom fields",
   "type": "magento2-module",
   "version": "1.0.0",
-  "license": "proprietary",
+  "minimum-stability": "dev",
+  "extra": {
+        "map": [
+            [
+                "*",
+                "Practice/CustomFields"
+            ]
+        ]
+    },
   "authors": [
     {
       "name": "Shailendra",
