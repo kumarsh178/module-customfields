@@ -4,6 +4,15 @@
   "type": "magento2-module",
   "version": "1.0.0",
   "minimum-stability": "dev",
+  "require": {
+        "magento/magento-composer-installer": "*",
+        "composer/installers": "~1.0"
+    },
+   "extra": {
+        "installer-paths": {
+            "app/code/Practice/CustomFields": ["Practice/CustomFields"]
+        }
+    }
   "authors": [
     {
       "name": "Shailendra",
