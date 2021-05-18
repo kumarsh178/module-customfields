@@ -4,14 +4,6 @@
   "type": "magento2-module",
   "version": "1.0.0",
   "minimum-stability": "dev",
-  "extra": {
-        "map": [
-            [
-                "*",
-                "Practice/CustomFields"
-            ]
-        ]
-    },
   "authors": [
     {
       "name": "Shailendra",
