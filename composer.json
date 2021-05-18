@@ -12,7 +12,7 @@
         "installer-paths": {
             "app/code/Practice/CustomFields": ["Practice/CustomFields"]
         }
-    }
+    },
   "authors": [
     {
       "name": "Shailendra",
